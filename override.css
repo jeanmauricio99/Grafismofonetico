@@ -1,4 +1,0 @@
-/* Override para evitar fontes remotas (CORS) */
-* {
-  font-family: Arial, Helvetica, sans-serif !important;
-}
